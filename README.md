@@ -1,15 +1,16 @@
-# Anna — Student Portfolio
+# Hemen — Student Portfolio
 
-A responsive personal portfolio website for Anna.
+A responsive dark-mode portfolio website for Hemen.
 
-## Files
-- `index.html` — website structure, styling, and interactive behavior
-- `assets/anna-profile.jpg` — profile photo
+## Included
+- `index.html` — complete website (HTML, CSS and JavaScript)
+- `assets/hemen-profile.jpg` — supplied profile image
 
-## How to open
-Open `index.html` in a web browser.
+## Preview
+Open `index.html` in a web browser. Internet access is needed only for the Google Fonts import; the site itself works without it.
 
-## Contact
-anna@gmail.com
+## Personal details to check
+The email address is shown exactly as supplied: `hemenh@gmail.com`. The email address has been updated to `hemenh@gmail.com` as confirmed.
 
-The contact form opens the visitor's email application with a pre-filled message.
+## Customize
+Edit `index.html` to update the About text, skills, projects, and contact details. The projects are described as learning/practice projects, not as completed deployed applications.
